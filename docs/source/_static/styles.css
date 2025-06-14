@@ -115,6 +115,15 @@
   background: var(--light-background);
 }
 
+.announcement, .announcement a {
+  background-color: #AD9FFF;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+}
+
 .nav-bar {
   background-color: var(--light-background);
 }
@@ -536,7 +545,7 @@
   margin-bottom: 10px;
 }
 
-.testimonials .quote-box .h2 b{
+.testimonials .quote-box .h2 b {
   color: var(--purple-title-text);
 }
 
